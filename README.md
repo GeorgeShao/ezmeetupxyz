@@ -68,5 +68,5 @@ I'm proud that I managed to get the project fully functioning as intended in the
 ## What we learned
 I learned a lot about React, Node.js, and working with p2p video & audio. This was also my first time working with Heroku by myself so I learned about setting up a custom domain and using their ACM to link a SSL certificate.
 
-## What's next for DistributedPython
-I want to further improve the GUI of the meeting video feeds.
+## What's next for ezmeetup.xyz
+I want to further improve the GUI of the meeting video feeds and add more features such as a chat, muting functionality, and the ability to upload/share files.
