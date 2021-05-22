@@ -46,7 +46,7 @@ Let’s pretend I’m a student. Class has just ended and I want to organize an 
 
 For this example, let’s use my name “george”.
 
-When the time comes, all everyone has to do is go to [ezmeetup.xyz/room/](ezmeetup.xyz/room/) followed by the custom meeting code they want to use.
+When the time comes, all everyone has to do is go to [ezmeetup.xyz/](ezmeetup.xyz/) followed by the custom meeting code they want to use.
 
 This meeting code does not have to be created beforehand. Anyone can go onto the website and instantly have a meeting setup for you with any code you want just by going to the url.This means that unlike Zoom and Google Meet, if the meeting host is running late or absent, you don’t need to wait for them and you can begin the meeting anytime you’d like.
 
@@ -66,7 +66,7 @@ I had many issues with socketio. It took awhile to fix them all, but I eventuall
 I'm proud that I managed to get the project fully functioning as intended in the end!
 
 ## What we learned
-I learned a lot about React, Node.js, and working with p2p video & audio.
+I learned a lot about React, Node.js, and working with p2p video & audio. This was also my first time working with Heroku by myself so I learned about setting up a custom domain and using their ACM to link a SSL certificate.
 
 ## What's next for DistributedPython
 I want to further improve the GUI of the meeting video feeds.
