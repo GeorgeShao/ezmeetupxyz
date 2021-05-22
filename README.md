@@ -46,7 +46,7 @@ Let’s pretend I’m a student. Class has just ended and I want to organize an 
 
 For this example, let’s use my name “george”.
 
-When the time comes, all everyone has to do is go to [ezmeetup.xyz/](ezmeetup.xyz/) followed by the custom meeting code they want to use.
+When the time comes, all everyone has to do is go to [ezmeetup.xyz/](ezmeetup.xyz/) and enter the custom meeting code they want to use. No account creation required. No download/install required. No exchanging email addresses required, and of course it works on the web cross-platform so everyone can use it.
 
 This meeting code does not have to be created beforehand. Anyone can go onto the website and instantly have a meeting setup for you with any code you want just by going to the url.This means that unlike Zoom and Google Meet, if the meeting host is running late or absent, you don’t need to wait for them and you can begin the meeting anytime you’d like.
 
