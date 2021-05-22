@@ -1,7 +1,7 @@
 # ezmeetup.xyz
 
 meetings simplified - a platform that allows students to easily organize online meetups and study sessions.
-[ezmeetup.xyz](ezmeetup.xyz)
+[ezmeetup.xyz](http://www.ezmeetup.xyz)
 
 ## Development
 
@@ -42,11 +42,11 @@ Ezmeetup allows you to instantly create a meeting with a custom meeting code. It
 Overall, it simplifies the process of creating small online meetups with friends.
 
 ## How to use it
-Let’s pretend I’m a student. Class has just ended and I want to organize an online study session with some friends. Rather than exchanging emails, asking them to create accounts, download software, or share long and complicated meeting links. All I have to do is give my friends the link [ezmeetup.xyz](ezmeetup.xyz) and a custom meeting code.
+Let’s pretend I’m a student. Class has just ended and I want to organize an online study session with some friends. Rather than exchanging emails, asking them to create accounts, download software, or share long and complicated meeting links. All I have to do is give my friends the link [ezmeetup.xyz](http://www.ezmeetup.xyz) and a custom meeting code.
 
 For this example, let’s use my name “george”.
 
-When the time comes, all everyone has to do is go to [ezmeetup.xyz/](ezmeetup.xyz/) and enter the custom meeting code "george". No account creation required. No download/install required. No exchanging email addresses required, and of course it works on the web cross-platform so everyone can use it.
+When the time comes, all everyone has to do is go to [ezmeetup.xyz/](http://www.ezmeetup.xyz) and enter the custom meeting code "george". No account creation required. No download/install required. No exchanging email addresses required, and of course it works on the web cross-platform so everyone can use it.
 
 This meeting code does not have to be created beforehand. Anyone can go onto the website and instantly have a meeting setup for you with any code you want just by going to the url.This means that unlike Zoom and Google Meet, if the meeting host is running late or absent, you don’t need to wait for them and you can begin the meeting anytime you’d like.
 
@@ -54,7 +54,7 @@ When people join the meeting via the link, a peer-to-peer mesh network connectio
 
 If you’d like a more generic meeting code, you can also just head to ezmeetup.xyz and just click the create room button for an auto-generated code.
 
-The React frontend and Node.js backend is hosted on Heroku. Feel free to try it out yourself at [ezmeetup.xyz](ezmeetup.xyz) today.
+The React frontend and Node.js backend is hosted on Heroku. Feel free to try it out yourself at [ezmeetup.xyz](http://www.ezmeetup.xyz) today.
 
 ## How we built it / how it works
 Ezmeetup uses a React frontend and a Node.js backend. THe React frontend provides the GUI for seeing the video feeds of others in the meeting. The Node.js backend acts as a signaling server for the peer-to-peer mesh network the video feeds are sent over.
