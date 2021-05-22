@@ -2,8 +2,7 @@ import React, { useEffect, useRef, useState } from "react";
 import io from "socket.io-client";
 import Peer from "simple-peer";
 import styled from "styled-components";
-import { Button, Box, Flex, Grid, Spacer, Text, Center, InputGroup, Input, InputRightElement, IconButton, useToast } from "@chakra-ui/react"
-import ThemeToggle from "../components/ThemeToggle"
+import { useToast } from "@chakra-ui/react"
 
 const Container = styled.div`
   padding: 20px;
