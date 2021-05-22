@@ -20,15 +20,15 @@ const CreateRoom = (props) => {
   }
   function create() {
     const id = genRandomID()
-    props.history.push(`/room/${id}`);
+    props.history.push(`/${id}`);
   }
   return (
     <Box>
       <Grid templateColumns="repeat(3, 1fr)">
         <Flex>
           <Box>
-            <Text fontSize="3xl" marginLeft="4" color="#d07035">exampleappname</Text>
-            <Text fontSize="md" marginLeft="4" color="#d07035">exampleapptype</Text>
+            <Text fontSize="3xl" marginLeft="4" color="#d07035">ezmeetup.xyz</Text>
+            <Text fontSize="md" marginLeft="4" color="#d07035">meetings simplified</Text>
           </Box>
           <Spacer />
         </Flex>
