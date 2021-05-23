@@ -42,7 +42,7 @@ Ezmeetup allows you to instantly create a meeting with a custom meeting code. It
 Overall, it simplifies the process of creating small online meetups with friends.
 
 ## How to use it
-Let’s pretend I’m a student. Class has just ended and I want to organize an online study session with some friends. Rather than exchanging emails, asking them to create accounts, download software, or share long and complicated meeting links. All I have to do is give my friends the link [ezmeetup.xyz](http://www.ezmeetup.xyz) and a custom meeting code.
+Let’s pretend I’m a student. Class has just ended and I want to organize an online study session with some friends. All I have to do is give my friends the link [ezmeetup.xyz](http://www.ezmeetup.xyz) and a custom meeting code.
 
 For this example, let’s use my name “george”.
 
@@ -52,7 +52,7 @@ This meeting code does not have to be created beforehand. Anyone can go onto the
 
 When people join the meeting via the link, a peer-to-peer mesh network connection will be established between all of them and they will be able to see and hear each other.
 
-If you’d like a more generic meeting code, you can also just head to ezmeetup.xyz and just click the create room button for an auto-generated code.
+If you’d like a more generic meeting code, you can also just head to ezmeetup.xyz and just click the “Create room with random code” button for an auto-generated code.
 
 The React frontend and Node.js backend is hosted on Heroku. Feel free to try it out yourself at [ezmeetup.xyz](http://www.ezmeetup.xyz) today.
 
