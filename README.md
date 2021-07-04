@@ -2,7 +2,7 @@
 
 meetings simplified - a platform that allows students to easily organize online meetups and study sessions.
 
-**NOTE:** To save on hosting demo costs, I've switched to a free Heroku dyno so the app will no longer have a secure connection / work at [ezmeetup.xyz](http://www.ezmeetup.xyz). To try it out, please visit [ezmeetupxyz.herokuapp.com/](https://ezmeetupxyz.herokuapp.com/) instead. The app may take a min or two to startup since the server sleeps after 30 mins of inactivity to save costs.
+**NOTE:** The app may take a min or two to startup since the server sleeps after 30 mins of inactivity to save costs.
 
 ## Development
 
